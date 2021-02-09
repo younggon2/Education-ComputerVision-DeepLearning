@@ -13,8 +13,9 @@
 
 ### Basics
 * Python 기초
-* 인공지능 기초
 * 영상처리 기초
+* 인공지능 기초
+* 개발환경 소개 (Colab, Jupyter Notebook, IDEs, ...)
 
 ### Modality
 * X-ray
