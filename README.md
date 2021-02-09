@@ -3,6 +3,8 @@
 > 서울대학교병원 융합의학과의 원내 인공지능 교육용 저장소입니다. 현재 영상 데이터를 기반으로 한 교육자료를 우선으로 개발하고 있습니다.
 > Last updated: 2021.02.10
 
+![Overvew Image 1](overview.png)  
+
 ## Contents
 교육자료는 Basics, Modality, Task, Special lectures의 4가지 카테고리로 분류되어 있습니다.
 
