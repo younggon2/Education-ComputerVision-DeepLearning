@@ -2,7 +2,7 @@
 ## WIP
 > 서울대학교병원 융합의학과의 원내 인공지능 교육용 저장소입니다.  
 > 현재 영상 데이터를 기반으로 한 교육자료를 우선으로 개발하고 있습니다.  
-> Last updated: 2021.03.24
+> Last updated: 2021.03.26
 
 ![Overvew Image 1](overview.png)  
 
@@ -46,7 +46,9 @@
 * 임상의를 위한 의료 인공지능 연구 매니징, 과제 제안서 작성법, ...
 
 ## Authors
-김영곤<sup>1</sup>, 김이삭<sup>2</sup>
+김영곤<sup>1</sup>, 김이삭<sup>2</sup>, 김찬기<sup>3</sup>
 
 <sup>1</sup> <sub>서울대학교병원 융합의학과</sub>  
-<sup>2</sup> <sub>서울대학교 바이오엔지니어링협동과정</sub>  
+<sup>2</sup> <sub>iRAIL, 서울대학교 바이오엔지니어링협동과정</sub>
+<sup>3</sup> <sub>iRAIL, 서울대학교 바이오엔지니어링협동과정</sub>  
+
