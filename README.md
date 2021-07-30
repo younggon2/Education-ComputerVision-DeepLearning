@@ -46,9 +46,8 @@
 * 임상의를 위한 의료 인공지능 연구 매니징, 과제 제안서 작성법, ...
 
 ## Authors
-김영곤<sup>1</sup>, 김이삭<sup>2</sup>, 김찬기<sup>3</sup>
+김영곤<sup>1</sup>, 김이삭<sup>2</sup>, 김찬기<sup>2</sup>
 
 <sup>1</sup> <sub>서울대학교병원 융합의학과</sub>  
 <sup>2</sup> <sub>iRAIL, 서울대학교 바이오엔지니어링협동과정</sub>
-<sup>3</sup> <sub>iRAIL, 서울대학교 바이오엔지니어링협동과정</sub>  
 
